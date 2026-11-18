@@ -26,7 +26,7 @@
 // USE AT YOUR OWN RISK: this drives OpenAI's private, undocumented
 // backend-api endpoints (the same ones the sidebar's trash icon uses).
 // Deletion is immediate and cannot be undone by this tool. See the full
-// disclaimer at https://github.com/baldwinsung/ChatGPT_Cleaner.
+// disclaimer at https://github.com/baldwinsung/chatgpt-cleaner.
 (() => {
   "use strict";
 
@@ -262,7 +262,7 @@
 
   console.warn(
     "ChatGPT_Cleaner: use at your own risk — this drives OpenAI's private, undocumented " +
-      "API. See https://github.com/baldwinsung/ChatGPT_Cleaner for the full disclaimer."
+      "API. See https://github.com/baldwinsung/chatgpt-cleaner for the full disclaimer."
   );
 
   load();
